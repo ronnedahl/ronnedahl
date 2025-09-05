@@ -3,7 +3,7 @@
 # Hej där, jag heter Peter
 
 <p align="center">
-  <img src="URL_TILL_EN_FIN_BANNER_BILD_HÄR" width="800">
+  <img src="./banner.png" width="800">
 </p>
 
 Jag är en junior AI-utvecklare från [Din Stad] som älskar att utforska skärningspunkten mellan data, språk och teknologi. Jag har byggt ett par chatbots med **LangChain** och **LangGraph** och är alltid på jakt efter nya utmaningar.
