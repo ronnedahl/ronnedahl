@@ -47,4 +47,4 @@ Hör gärna av dig för en kaffe (virtuell eller verklig) eller bara för att s�
 
 ### 📊 Min GitHub-statistik
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ditt-github-användarnamn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ditt-github-ronnedahl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
