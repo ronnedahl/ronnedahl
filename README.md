@@ -1,16 +1,16 @@
 <!-- Hej! Detta är en kommentar och kommer inte synas. Anpassa texten nedan! -->
 
-# Hej där, jag heter Peter
+# Hi there, I'm Peter
 
 <p align="center">
   <img src="./github-banner.png" width="800">
 </p>
 
-Jag är en junior AI-utvecklare från [Din Stad] som älskar att utforska skärningspunkten mellan data, språk och teknologi. Jag har byggt ett par chatbots med **LangChain** och **LangGraph** och är alltid på jakt efter nya utmaningar.
+I'm a junior AI Developer from Karlstad who loves exploring the intersection of data, language, and technology. I have built a couple of chatbots using **LangChain** and **LangGraph** and I'm always looking for new challenges.
 
 ---
 
-### 🛠️ Min Tech Stack
+###  My Tech Stack
 
 <p align="left">
   <!-- Lägg till eller ta bort badges från shields.io efter behov -->
@@ -22,17 +22,17 @@ Jag är en junior AI-utvecklare från [Din Stad] som älskar att utforska skärn
 
 ---
 
-### 🌱 Vad jag håller på med just nu
+### hat I'm Currently Working On
 
-*   Jag fördjupar mig i Vector Databases för att förbättra informationshämtning i mina AI-projekt.
-*   Jag bygger en liten app som använder DuckDuckGo-sökningar som ett verktyg för en LangChain-agent.
-*   Jag söker aktivt efter min första roll som AI-utvecklare!
+*   I'm currently diving deeper into Vector Databases to improve information retrieval in my AI projects.
+*   I'm building a small app that uses DuckDuckGo searches as a tool for a LangChain agent.
+*   I'm actively looking for my first role as an AI Developer!
 
 ---
 
-### 📫 Kontakta mig
+### How to Reach Me
 
-Hör gärna av dig för en kaffe (virtuell eller verklig) eller bara för att säga hej!
+Feel free to reach out for a coffee (virtual or real) or just to say hi!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ditt-linkedin-användarnamn/" target="_blank">
@@ -45,6 +45,6 @@ Hör gärna av dig för en kaffe (virtuell eller verklig) eller bara för att s�
 
 ---
 
-### 📊 Min GitHub-statistik
+### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ditt-github-ronnedahl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronnedahl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
