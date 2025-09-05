@@ -1,4 +1,4 @@
-<!-- Hej! Detta är en kommentar och kommer inte synas. Anpassa texten nedan! -->
+
 
 # Hi there, I'm Peter
 
@@ -13,9 +13,10 @@ I'm a junior AI Developer from Karlstad who loves exploring the intersection of 
 ###  My Tech Stack
 
 <p align="left">
-  <!-- Lägg till eller ta bort badges från shields.io efter behov -->
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LangChain-00866A?style=for-the-badge" alt="LangChain" />
+   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
