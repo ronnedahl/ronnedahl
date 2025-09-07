@@ -20,9 +20,14 @@ I'm a junior AI Developer from Karlstad who loves exploring the intersection of 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge" alt="Html5" />
   <img src="https://img.shields.io/badge/Css-663399?style=for-the-badge" alt="Css" />
+  <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=for-the-badge" alt="Tailwind Css" />
    <img src="https://img.shields.io/badge/React-1DAFB?style=for-the-badge" alt="React" />
+   <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge" alt="Expo" />
+   <img src="https://img.shields.io/badge/Firebase-D2C00?style=for-the-badge" alt="Firebase" />
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB" />
 </p>
 
 ---
