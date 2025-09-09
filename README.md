@@ -28,6 +28,8 @@ I'm a junior AI Developer from Karlstad who loves exploring the intersection of 
    <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge" alt="Expo" />
    <img src="https://img.shields.io/badge/Firebase-D2C00?style=for-the-badge" alt="Firebase" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge" alt="FFmpeg" />
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge" alt="WebRTC" />
 </p>
 
 ---
