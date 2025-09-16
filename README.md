@@ -25,6 +25,7 @@ I'm a junior AI Developer from Karlstad who loves exploring the intersection of 
   <img src="https://img.shields.io/badge/Css-663399?style=for-the-badge" alt="Css" />
   <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=for-the-badge" alt="Tailwind Css" />
    <img src="https://img.shields.io/badge/React-1DAFB?style=for-the-badge" alt="React" />
+   <img src="https://img.shields.io/badge/Typescript-47A248?style=for-the-badge" alt="Typescript" />
    <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge" alt="Expo" />
    <img src="https://img.shields.io/badge/Firebase-D2C00?style=for-the-badge" alt="Firebase" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" alt="MongoDB" />
